@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "survey",
+    "libraryId": "cb1c60b3-58ab-48cc-8b2c-210ea2776be5",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

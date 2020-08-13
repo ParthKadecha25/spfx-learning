@@ -1,0 +1,19 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.iconPositionLeft{
+    text-align: left;
+}
+
+.radioIconStyle{
+    text-align: center;
+    font-size: 30px;
+    width : 100%;
+}
+
+.addChoiceButton{
+    height: 50px;
+    min-width: 100px;
+    text-align: center;
+    background-color:transparent;
+    color: $ms-color-themePrimary
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "survey-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/survey/SurveyWebPart.js",
+          "manifest": "./src/webparts/survey/SurveyWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SurveyWebPartStrings": "lib/webparts/survey/loc/{locale}.js"
+  }
+}

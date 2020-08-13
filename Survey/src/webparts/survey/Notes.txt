@@ -1,0 +1,37 @@
+Functionality:
+
+1. Create Question.
+2. Answer can be of 4 types
+
+    A. Text 
+    B. Choices
+    C. Date
+    D. Rating
+
+3. Text
+
+    Question : [..................]
+    Sample Answer : [..............]
+
+    [OK] [CANCLE]
+
+4. Choices
+
+    Question : [..................]
+    Choice 1 : [...........] [Edit] [Delete]
+    Choice 2 : [...........] [Edit] [Delete]
+
+    [Add New Choice] [OK] [CANCLE]
+
+5. Date
+
+    Question : [..................]
+    Answer Date : [Date Range] [Single Date]
+
+
+6. Rating
+
+    Question : [................]
+    
+
+    

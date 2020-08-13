@@ -1,0 +1,50 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.questionBox{
+    padding: 20px;
+    background-color:#F4F4F4;
+    margin: 10px 5px;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-top-color: $ms-color-themeDark
+}
+
+.questionBoxViewMode{
+    padding: 20px;
+}
+.questionBoxViewModeParent :hover{
+    background-color:#E6E6E6;
+}
+
+
+
+.iconPositionLeft{
+    text-align: left;
+}
+
+.radioIconStyle{
+    text-align: center;
+    font-size: 20px;
+    vertical-align: middle;
+    width : 100%;
+}
+
+.addChoiceButton{
+    height: 30px;
+    min-width: 100px;
+    text-align: center;
+    background-color:transparent;
+    color: $ms-color-themePrimary
+}
+
+.row{
+    padding: 10px 0px;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.alignLeft{
+    text-align: left;
+}
